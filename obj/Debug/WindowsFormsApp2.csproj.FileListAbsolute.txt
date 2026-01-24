@@ -1,0 +1,11 @@
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
